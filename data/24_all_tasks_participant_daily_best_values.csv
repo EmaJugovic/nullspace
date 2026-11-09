@@ -1,0 +1,465 @@
+Participant,Task,Task_display_name,Day,Daily_best_performance,Normalized_performance,N_blocks_available,N_days_available,Participant_task_min,Participant_task_max,Normalization_range_zero,Source_file
+PT03,Cognitive,Cognitive Load Task,1,1,0.0,5,2,1,13,False,tapes_cog_load_summary.csv
+PT03,Cognitive,Cognitive Load Task,5,13,1.0,5,2,1,13,False,tapes_cog_load_summary.csv
+PT04,Cognitive,Cognitive Load Task,1,11,0.0,5,3,11,26,False,tapes_cog_load_summary.csv
+PT04,Cognitive,Cognitive Load Task,3,12,0.06666666666666667,5,3,11,26,False,tapes_cog_load_summary.csv
+PT04,Cognitive,Cognitive Load Task,5,26,1.0,5,3,11,26,False,tapes_cog_load_summary.csv
+PT05,Cognitive,Cognitive Load Task,1,6,0.0,5,3,6,13,False,tapes_cog_load_summary.csv
+PT05,Cognitive,Cognitive Load Task,3,13,1.0,5,3,6,13,False,tapes_cog_load_summary.csv
+PT05,Cognitive,Cognitive Load Task,5,11,0.7142857142857143,5,3,6,13,False,tapes_cog_load_summary.csv
+PT06,Cognitive,Cognitive Load Task,1,6,0.0,5,3,6,10,False,tapes_cog_load_summary.csv
+PT06,Cognitive,Cognitive Load Task,3,9,0.75,5,3,6,10,False,tapes_cog_load_summary.csv
+PT06,Cognitive,Cognitive Load Task,5,10,1.0,5,3,6,10,False,tapes_cog_load_summary.csv
+PT07,Cognitive,Cognitive Load Task,1,13,0.0,5,3,13,35,False,tapes_cog_load_summary.csv
+PT07,Cognitive,Cognitive Load Task,3,19,0.2727272727272727,5,3,13,35,False,tapes_cog_load_summary.csv
+PT07,Cognitive,Cognitive Load Task,5,35,1.0,5,3,13,35,False,tapes_cog_load_summary.csv
+PT08,Cognitive,Cognitive Load Task,1,19,0.8333333333333334,5,3,9,21,False,tapes_cog_load_summary.csv
+PT08,Cognitive,Cognitive Load Task,3,9,0.0,5,3,9,21,False,tapes_cog_load_summary.csv
+PT08,Cognitive,Cognitive Load Task,5,21,1.0,5,3,9,21,False,tapes_cog_load_summary.csv
+PT09,Cognitive,Cognitive Load Task,1,27,0.0,5,3,27,37,False,tapes_cog_load_summary.csv
+PT09,Cognitive,Cognitive Load Task,3,35,0.8,5,3,27,37,False,tapes_cog_load_summary.csv
+PT09,Cognitive,Cognitive Load Task,5,37,1.0,5,3,27,37,False,tapes_cog_load_summary.csv
+PT10,Cognitive,Cognitive Load Task,1,22,0.0,5,3,22,36,False,tapes_cog_load_summary.csv
+PT10,Cognitive,Cognitive Load Task,3,36,1.0,5,3,22,36,False,tapes_cog_load_summary.csv
+PT10,Cognitive,Cognitive Load Task,5,36,1.0,5,3,22,36,False,tapes_cog_load_summary.csv
+PT11,Cognitive,Cognitive Load Task,1,15,0.0,5,3,15,29,False,tapes_cog_load_summary.csv
+PT11,Cognitive,Cognitive Load Task,3,21,0.42857142857142855,5,3,15,29,False,tapes_cog_load_summary.csv
+PT11,Cognitive,Cognitive Load Task,5,29,1.0,5,3,15,29,False,tapes_cog_load_summary.csv
+PT12,Cognitive,Cognitive Load Task,1,3,0.0,5,3,3,17,False,tapes_cog_load_summary.csv
+PT12,Cognitive,Cognitive Load Task,3,8,0.35714285714285715,5,3,3,17,False,tapes_cog_load_summary.csv
+PT12,Cognitive,Cognitive Load Task,5,17,1.0,5,3,3,17,False,tapes_cog_load_summary.csv
+PT13,Cognitive,Cognitive Load Task,1,4,0.0,5,3,4,11,False,tapes_cog_load_summary.csv
+PT13,Cognitive,Cognitive Load Task,3,10,0.8571428571428571,5,3,4,11,False,tapes_cog_load_summary.csv
+PT13,Cognitive,Cognitive Load Task,5,11,1.0,5,3,4,11,False,tapes_cog_load_summary.csv
+PT14,Cognitive,Cognitive Load Task,1,5,0.0,5,3,5,17,False,tapes_cog_load_summary.csv
+PT14,Cognitive,Cognitive Load Task,3,17,1.0,5,3,5,17,False,tapes_cog_load_summary.csv
+PT14,Cognitive,Cognitive Load Task,5,16,0.9166666666666666,5,3,5,17,False,tapes_cog_load_summary.csv
+PT15,Cognitive,Cognitive Load Task,1,8,0.0,5,3,8,16,False,tapes_cog_load_summary.csv
+PT15,Cognitive,Cognitive Load Task,3,16,1.0,5,3,8,16,False,tapes_cog_load_summary.csv
+PT15,Cognitive,Cognitive Load Task,5,13,0.625,5,3,8,16,False,tapes_cog_load_summary.csv
+PT16,Cognitive,Cognitive Load Task,1,34,0.0,5,2,34,38,False,tapes_cog_load_summary.csv
+PT16,Cognitive,Cognitive Load Task,3,38,1.0,5,2,34,38,False,tapes_cog_load_summary.csv
+PT17,Cognitive,Cognitive Load Task,1,11,0.0,5,3,11,24,False,tapes_cog_load_summary.csv
+PT17,Cognitive,Cognitive Load Task,3,19,0.6153846153846154,5,3,11,24,False,tapes_cog_load_summary.csv
+PT17,Cognitive,Cognitive Load Task,5,24,1.0,5,3,11,24,False,tapes_cog_load_summary.csv
+PT20,Cognitive,Cognitive Load Task,1,20,0.0,5,3,20,30,False,tapes_cog_load_summary.csv
+PT20,Cognitive,Cognitive Load Task,3,23,0.3,5,3,20,30,False,tapes_cog_load_summary.csv
+PT20,Cognitive,Cognitive Load Task,5,30,1.0,5,3,20,30,False,tapes_cog_load_summary.csv
+PT21,Cognitive,Cognitive Load Task,1,20,0.0,5,3,20,33,False,tapes_cog_load_summary.csv
+PT21,Cognitive,Cognitive Load Task,3,26,0.46153846153846156,5,3,20,33,False,tapes_cog_load_summary.csv
+PT21,Cognitive,Cognitive Load Task,5,33,1.0,5,3,20,33,False,tapes_cog_load_summary.csv
+PT22,Cognitive,Cognitive Load Task,1,7,0.0,5,3,7,12,False,tapes_cog_load_summary.csv
+PT22,Cognitive,Cognitive Load Task,3,12,1.0,5,3,7,12,False,tapes_cog_load_summary.csv
+PT22,Cognitive,Cognitive Load Task,5,11,0.8,5,3,7,12,False,tapes_cog_load_summary.csv
+PT23,Cognitive,Cognitive Load Task,1,22,0.0,5,3,22,38,False,tapes_cog_load_summary.csv
+PT23,Cognitive,Cognitive Load Task,3,32,0.625,5,3,22,38,False,tapes_cog_load_summary.csv
+PT23,Cognitive,Cognitive Load Task,5,38,1.0,5,3,22,38,False,tapes_cog_load_summary.csv
+PT24,Cognitive,Cognitive Load Task,1,13,0.0,5,3,13,30,False,tapes_cog_load_summary.csv
+PT24,Cognitive,Cognitive Load Task,3,27,0.8235294117647058,5,3,13,30,False,tapes_cog_load_summary.csv
+PT24,Cognitive,Cognitive Load Task,5,30,1.0,5,3,13,30,False,tapes_cog_load_summary.csv
+PT25,Cognitive,Cognitive Load Task,1,7,0.0,5,3,7,12,False,tapes_cog_load_summary.csv
+PT25,Cognitive,Cognitive Load Task,3,12,1.0,5,3,7,12,False,tapes_cog_load_summary.csv
+PT25,Cognitive,Cognitive Load Task,5,11,0.8,5,3,7,12,False,tapes_cog_load_summary.csv
+PT26,Cognitive,Cognitive Load Task,1,15,1.0,5,2,12,15,False,tapes_cog_load_summary.csv
+PT26,Cognitive,Cognitive Load Task,3,12,0.0,5,2,12,15,False,tapes_cog_load_summary.csv
+PT03,Coin_Task_Seated,Tool Use Task,1,0,0.0,5,4,0,11,False,coin_task_summary.csv
+PT03,Coin_Task_Seated,Tool Use Task,2,2,0.18181818181818182,5,4,0,11,False,coin_task_summary.csv
+PT03,Coin_Task_Seated,Tool Use Task,4,7,0.6363636363636364,5,4,0,11,False,coin_task_summary.csv
+PT03,Coin_Task_Seated,Tool Use Task,5,11,1.0,5,4,0,11,False,coin_task_summary.csv
+PT04,Coin_Task_Seated,Tool Use Task,1,2,0.0,5,5,2,10,False,coin_task_summary.csv
+PT04,Coin_Task_Seated,Tool Use Task,2,5,0.375,5,5,2,10,False,coin_task_summary.csv
+PT04,Coin_Task_Seated,Tool Use Task,3,6,0.5,5,5,2,10,False,coin_task_summary.csv
+PT04,Coin_Task_Seated,Tool Use Task,4,8,0.75,5,5,2,10,False,coin_task_summary.csv
+PT04,Coin_Task_Seated,Tool Use Task,5,10,1.0,5,5,2,10,False,coin_task_summary.csv
+PT05,Coin_Task_Seated,Tool Use Task,1,2,0.0,5,5,2,6,False,coin_task_summary.csv
+PT05,Coin_Task_Seated,Tool Use Task,2,5,0.75,5,5,2,6,False,coin_task_summary.csv
+PT05,Coin_Task_Seated,Tool Use Task,3,6,1.0,5,5,2,6,False,coin_task_summary.csv
+PT05,Coin_Task_Seated,Tool Use Task,4,5,0.75,5,5,2,6,False,coin_task_summary.csv
+PT05,Coin_Task_Seated,Tool Use Task,5,5,0.75,5,5,2,6,False,coin_task_summary.csv
+PT06,Coin_Task_Seated,Tool Use Task,1,6,0.0,5,5,6,12,False,coin_task_summary.csv
+PT06,Coin_Task_Seated,Tool Use Task,2,12,1.0,5,5,6,12,False,coin_task_summary.csv
+PT06,Coin_Task_Seated,Tool Use Task,3,12,1.0,5,5,6,12,False,coin_task_summary.csv
+PT06,Coin_Task_Seated,Tool Use Task,4,12,1.0,5,5,6,12,False,coin_task_summary.csv
+PT06,Coin_Task_Seated,Tool Use Task,5,12,1.0,5,5,6,12,False,coin_task_summary.csv
+PT07,Coin_Task_Seated,Tool Use Task,1,0,0.0,5,5,0,2,False,coin_task_summary.csv
+PT07,Coin_Task_Seated,Tool Use Task,2,2,1.0,5,5,0,2,False,coin_task_summary.csv
+PT07,Coin_Task_Seated,Tool Use Task,3,0,0.0,5,5,0,2,False,coin_task_summary.csv
+PT07,Coin_Task_Seated,Tool Use Task,4,1,0.5,5,5,0,2,False,coin_task_summary.csv
+PT07,Coin_Task_Seated,Tool Use Task,5,2,1.0,5,5,0,2,False,coin_task_summary.csv
+PT08,Coin_Task_Seated,Tool Use Task,1,2,0.0,5,5,2,12,False,coin_task_summary.csv
+PT08,Coin_Task_Seated,Tool Use Task,2,4,0.2,5,5,2,12,False,coin_task_summary.csv
+PT08,Coin_Task_Seated,Tool Use Task,3,12,1.0,5,5,2,12,False,coin_task_summary.csv
+PT08,Coin_Task_Seated,Tool Use Task,4,4,0.2,5,5,2,12,False,coin_task_summary.csv
+PT08,Coin_Task_Seated,Tool Use Task,5,11,0.9,5,5,2,12,False,coin_task_summary.csv
+PT09,Coin_Task_Seated,Tool Use Task,1,7,0.25,5,5,6,10,False,coin_task_summary.csv
+PT09,Coin_Task_Seated,Tool Use Task,2,8,0.5,5,5,6,10,False,coin_task_summary.csv
+PT09,Coin_Task_Seated,Tool Use Task,3,10,1.0,5,5,6,10,False,coin_task_summary.csv
+PT09,Coin_Task_Seated,Tool Use Task,4,6,0.0,5,5,6,10,False,coin_task_summary.csv
+PT09,Coin_Task_Seated,Tool Use Task,5,8,0.5,5,5,6,10,False,coin_task_summary.csv
+PT10,Coin_Task_Seated,Tool Use Task,1,4,0.0,5,5,4,10,False,coin_task_summary.csv
+PT10,Coin_Task_Seated,Tool Use Task,2,4,0.0,5,5,4,10,False,coin_task_summary.csv
+PT10,Coin_Task_Seated,Tool Use Task,3,5,0.16666666666666666,5,5,4,10,False,coin_task_summary.csv
+PT10,Coin_Task_Seated,Tool Use Task,4,10,1.0,5,5,4,10,False,coin_task_summary.csv
+PT10,Coin_Task_Seated,Tool Use Task,5,7,0.5,5,5,4,10,False,coin_task_summary.csv
+PT11,Coin_Task_Seated,Tool Use Task,1,7,0.0,5,5,7,12,False,coin_task_summary.csv
+PT11,Coin_Task_Seated,Tool Use Task,2,12,1.0,5,5,7,12,False,coin_task_summary.csv
+PT11,Coin_Task_Seated,Tool Use Task,3,12,1.0,5,5,7,12,False,coin_task_summary.csv
+PT11,Coin_Task_Seated,Tool Use Task,4,11,0.8,5,5,7,12,False,coin_task_summary.csv
+PT11,Coin_Task_Seated,Tool Use Task,5,10,0.6,5,5,7,12,False,coin_task_summary.csv
+PT12,Coin_Task_Seated,Tool Use Task,1,0,0.0,5,5,0,9,False,coin_task_summary.csv
+PT12,Coin_Task_Seated,Tool Use Task,2,1,0.1111111111111111,5,5,0,9,False,coin_task_summary.csv
+PT12,Coin_Task_Seated,Tool Use Task,3,4,0.4444444444444444,5,5,0,9,False,coin_task_summary.csv
+PT12,Coin_Task_Seated,Tool Use Task,4,8,0.8888888888888888,5,5,0,9,False,coin_task_summary.csv
+PT12,Coin_Task_Seated,Tool Use Task,5,9,1.0,5,5,0,9,False,coin_task_summary.csv
+PT13,Coin_Task_Seated,Tool Use Task,1,1,0.0,5,5,1,2,False,coin_task_summary.csv
+PT13,Coin_Task_Seated,Tool Use Task,2,1,0.0,5,5,1,2,False,coin_task_summary.csv
+PT13,Coin_Task_Seated,Tool Use Task,3,1,0.0,5,5,1,2,False,coin_task_summary.csv
+PT13,Coin_Task_Seated,Tool Use Task,4,2,1.0,5,5,1,2,False,coin_task_summary.csv
+PT13,Coin_Task_Seated,Tool Use Task,5,2,1.0,5,5,1,2,False,coin_task_summary.csv
+PT14,Coin_Task_Seated,Tool Use Task,1,9,0.0,5,5,9,12,False,coin_task_summary.csv
+PT14,Coin_Task_Seated,Tool Use Task,2,12,1.0,5,5,9,12,False,coin_task_summary.csv
+PT14,Coin_Task_Seated,Tool Use Task,3,12,1.0,5,5,9,12,False,coin_task_summary.csv
+PT14,Coin_Task_Seated,Tool Use Task,4,12,1.0,5,5,9,12,False,coin_task_summary.csv
+PT14,Coin_Task_Seated,Tool Use Task,5,12,1.0,5,5,9,12,False,coin_task_summary.csv
+PT15,Coin_Task_Seated,Tool Use Task,1,8,0.0,5,5,8,12,False,coin_task_summary.csv
+PT15,Coin_Task_Seated,Tool Use Task,2,8,0.0,5,5,8,12,False,coin_task_summary.csv
+PT15,Coin_Task_Seated,Tool Use Task,3,9,0.25,5,5,8,12,False,coin_task_summary.csv
+PT15,Coin_Task_Seated,Tool Use Task,4,12,1.0,5,5,8,12,False,coin_task_summary.csv
+PT15,Coin_Task_Seated,Tool Use Task,5,12,1.0,5,5,8,12,False,coin_task_summary.csv
+PT16,Coin_Task_Seated,Tool Use Task,1,6,0.0,5,4,6,12,False,coin_task_summary.csv
+PT16,Coin_Task_Seated,Tool Use Task,2,12,1.0,5,4,6,12,False,coin_task_summary.csv
+PT16,Coin_Task_Seated,Tool Use Task,3,11,0.8333333333333334,5,4,6,12,False,coin_task_summary.csv
+PT16,Coin_Task_Seated,Tool Use Task,4,12,1.0,5,4,6,12,False,coin_task_summary.csv
+PT17,Coin_Task_Seated,Tool Use Task,1,11,0.8888888888888888,5,5,3,12,False,coin_task_summary.csv
+PT17,Coin_Task_Seated,Tool Use Task,2,3,0.0,5,5,3,12,False,coin_task_summary.csv
+PT17,Coin_Task_Seated,Tool Use Task,3,4,0.1111111111111111,5,5,3,12,False,coin_task_summary.csv
+PT17,Coin_Task_Seated,Tool Use Task,4,10,0.7777777777777778,5,5,3,12,False,coin_task_summary.csv
+PT17,Coin_Task_Seated,Tool Use Task,5,12,1.0,5,5,3,12,False,coin_task_summary.csv
+PT20,Coin_Task_Seated,Tool Use Task,1,8,0.0,5,5,8,12,False,coin_task_summary.csv
+PT20,Coin_Task_Seated,Tool Use Task,2,8,0.0,5,5,8,12,False,coin_task_summary.csv
+PT20,Coin_Task_Seated,Tool Use Task,3,12,1.0,5,5,8,12,False,coin_task_summary.csv
+PT20,Coin_Task_Seated,Tool Use Task,4,8,0.0,5,5,8,12,False,coin_task_summary.csv
+PT20,Coin_Task_Seated,Tool Use Task,5,11,0.75,5,5,8,12,False,coin_task_summary.csv
+PT21,Coin_Task_Seated,Tool Use Task,1,10,0.5,5,5,8,12,False,coin_task_summary.csv
+PT21,Coin_Task_Seated,Tool Use Task,2,9,0.25,5,5,8,12,False,coin_task_summary.csv
+PT21,Coin_Task_Seated,Tool Use Task,3,8,0.0,5,5,8,12,False,coin_task_summary.csv
+PT21,Coin_Task_Seated,Tool Use Task,4,8,0.0,5,5,8,12,False,coin_task_summary.csv
+PT21,Coin_Task_Seated,Tool Use Task,5,12,1.0,5,5,8,12,False,coin_task_summary.csv
+PT22,Coin_Task_Seated,Tool Use Task,1,4,0.2,5,5,3,8,False,coin_task_summary.csv
+PT22,Coin_Task_Seated,Tool Use Task,2,3,0.0,5,5,3,8,False,coin_task_summary.csv
+PT22,Coin_Task_Seated,Tool Use Task,3,8,1.0,5,5,3,8,False,coin_task_summary.csv
+PT22,Coin_Task_Seated,Tool Use Task,4,7,0.8,5,5,3,8,False,coin_task_summary.csv
+PT22,Coin_Task_Seated,Tool Use Task,5,8,1.0,5,5,3,8,False,coin_task_summary.csv
+PT23,Coin_Task_Seated,Tool Use Task,1,1,0.0,5,5,1,5,False,coin_task_summary.csv
+PT23,Coin_Task_Seated,Tool Use Task,2,4,0.75,5,5,1,5,False,coin_task_summary.csv
+PT23,Coin_Task_Seated,Tool Use Task,3,1,0.0,5,5,1,5,False,coin_task_summary.csv
+PT23,Coin_Task_Seated,Tool Use Task,4,5,1.0,5,5,1,5,False,coin_task_summary.csv
+PT23,Coin_Task_Seated,Tool Use Task,5,3,0.5,5,5,1,5,False,coin_task_summary.csv
+PT24,Coin_Task_Seated,Tool Use Task,1,5,0.0,5,5,5,12,False,coin_task_summary.csv
+PT24,Coin_Task_Seated,Tool Use Task,2,8,0.42857142857142855,5,5,5,12,False,coin_task_summary.csv
+PT24,Coin_Task_Seated,Tool Use Task,3,12,1.0,5,5,5,12,False,coin_task_summary.csv
+PT24,Coin_Task_Seated,Tool Use Task,4,12,1.0,5,5,5,12,False,coin_task_summary.csv
+PT24,Coin_Task_Seated,Tool Use Task,5,12,1.0,5,5,5,12,False,coin_task_summary.csv
+PT25,Coin_Task_Seated,Tool Use Task,1,1,0.0,5,5,1,7,False,coin_task_summary.csv
+PT25,Coin_Task_Seated,Tool Use Task,2,2,0.16666666666666666,5,5,1,7,False,coin_task_summary.csv
+PT25,Coin_Task_Seated,Tool Use Task,3,3,0.3333333333333333,5,5,1,7,False,coin_task_summary.csv
+PT25,Coin_Task_Seated,Tool Use Task,4,7,1.0,5,5,1,7,False,coin_task_summary.csv
+PT25,Coin_Task_Seated,Tool Use Task,5,5,0.6666666666666666,5,5,1,7,False,coin_task_summary.csv
+PT26,Coin_Task_Seated,Tool Use Task,1,7,0.0,5,4,7,12,False,coin_task_summary.csv
+PT26,Coin_Task_Seated,Tool Use Task,2,12,1.0,5,4,7,12,False,coin_task_summary.csv
+PT26,Coin_Task_Seated,Tool Use Task,3,12,1.0,5,4,7,12,False,coin_task_summary.csv
+PT26,Coin_Task_Seated,Tool Use Task,4,12,1.0,5,4,7,12,False,coin_task_summary.csv
+PT01,Pegs_Seated,Individual Task,1,9,0.0,5,5,9,23,False,pegs_summary.csv
+PT01,Pegs_Seated,Individual Task,2,15,0.42857142857142855,5,5,9,23,False,pegs_summary.csv
+PT01,Pegs_Seated,Individual Task,3,15,0.42857142857142855,5,5,9,23,False,pegs_summary.csv
+PT01,Pegs_Seated,Individual Task,4,18,0.6428571428571429,5,5,9,23,False,pegs_summary.csv
+PT01,Pegs_Seated,Individual Task,5,23,1.0,5,5,9,23,False,pegs_summary.csv
+PT03,Pegs_Seated,Individual Task,1,7,0.0,5,4,7,19,False,pegs_summary.csv
+PT03,Pegs_Seated,Individual Task,2,13,0.5,5,4,7,19,False,pegs_summary.csv
+PT03,Pegs_Seated,Individual Task,4,10,0.25,5,4,7,19,False,pegs_summary.csv
+PT03,Pegs_Seated,Individual Task,5,19,1.0,5,4,7,19,False,pegs_summary.csv
+PT04,Pegs_Seated,Individual Task,1,8,0.0,5,5,8,16,False,pegs_summary.csv
+PT04,Pegs_Seated,Individual Task,2,10,0.25,5,5,8,16,False,pegs_summary.csv
+PT04,Pegs_Seated,Individual Task,3,13,0.625,5,5,8,16,False,pegs_summary.csv
+PT04,Pegs_Seated,Individual Task,4,15,0.875,5,5,8,16,False,pegs_summary.csv
+PT04,Pegs_Seated,Individual Task,5,16,1.0,5,5,8,16,False,pegs_summary.csv
+PT05,Pegs_Seated,Individual Task,1,7,0.5,5,5,5,9,False,pegs_summary.csv
+PT05,Pegs_Seated,Individual Task,2,5,0.0,5,5,5,9,False,pegs_summary.csv
+PT05,Pegs_Seated,Individual Task,3,8,0.75,5,5,5,9,False,pegs_summary.csv
+PT05,Pegs_Seated,Individual Task,4,8,0.75,5,5,5,9,False,pegs_summary.csv
+PT05,Pegs_Seated,Individual Task,5,9,1.0,5,5,5,9,False,pegs_summary.csv
+PT06,Pegs_Seated,Individual Task,1,9,0.0,5,5,9,19,False,pegs_summary.csv
+PT06,Pegs_Seated,Individual Task,2,13,0.4,5,5,9,19,False,pegs_summary.csv
+PT06,Pegs_Seated,Individual Task,3,15,0.6,5,5,9,19,False,pegs_summary.csv
+PT06,Pegs_Seated,Individual Task,4,19,1.0,5,5,9,19,False,pegs_summary.csv
+PT06,Pegs_Seated,Individual Task,5,19,1.0,5,5,9,19,False,pegs_summary.csv
+PT07,Pegs_Seated,Individual Task,1,5,0.1111111111111111,5,5,4,13,False,pegs_summary.csv
+PT07,Pegs_Seated,Individual Task,2,4,0.0,5,5,4,13,False,pegs_summary.csv
+PT07,Pegs_Seated,Individual Task,3,6,0.2222222222222222,5,5,4,13,False,pegs_summary.csv
+PT07,Pegs_Seated,Individual Task,4,13,1.0,5,5,4,13,False,pegs_summary.csv
+PT07,Pegs_Seated,Individual Task,5,8,0.4444444444444444,5,5,4,13,False,pegs_summary.csv
+PT08,Pegs_Seated,Individual Task,1,6,0.0,5,5,6,23,False,pegs_summary.csv
+PT08,Pegs_Seated,Individual Task,2,12,0.35294117647058826,5,5,6,23,False,pegs_summary.csv
+PT08,Pegs_Seated,Individual Task,3,20,0.8235294117647058,5,5,6,23,False,pegs_summary.csv
+PT08,Pegs_Seated,Individual Task,4,20,0.8235294117647058,5,5,6,23,False,pegs_summary.csv
+PT08,Pegs_Seated,Individual Task,5,23,1.0,5,5,6,23,False,pegs_summary.csv
+PT09,Pegs_Seated,Individual Task,1,14,0.0,5,5,14,27,False,pegs_summary.csv
+PT09,Pegs_Seated,Individual Task,2,17,0.23076923076923078,5,5,14,27,False,pegs_summary.csv
+PT09,Pegs_Seated,Individual Task,3,19,0.38461538461538464,5,5,14,27,False,pegs_summary.csv
+PT09,Pegs_Seated,Individual Task,4,22,0.6153846153846154,5,5,14,27,False,pegs_summary.csv
+PT09,Pegs_Seated,Individual Task,5,27,1.0,5,5,14,27,False,pegs_summary.csv
+PT10,Pegs_Seated,Individual Task,1,8,0.0,5,5,8,24,False,pegs_summary.csv
+PT10,Pegs_Seated,Individual Task,2,16,0.5,5,5,8,24,False,pegs_summary.csv
+PT10,Pegs_Seated,Individual Task,3,19,0.6875,5,5,8,24,False,pegs_summary.csv
+PT10,Pegs_Seated,Individual Task,4,18,0.625,5,5,8,24,False,pegs_summary.csv
+PT10,Pegs_Seated,Individual Task,5,24,1.0,5,5,8,24,False,pegs_summary.csv
+PT11,Pegs_Seated,Individual Task,1,9,0.0,5,5,9,24,False,pegs_summary.csv
+PT11,Pegs_Seated,Individual Task,2,16,0.4666666666666667,5,5,9,24,False,pegs_summary.csv
+PT11,Pegs_Seated,Individual Task,3,13,0.26666666666666666,5,5,9,24,False,pegs_summary.csv
+PT11,Pegs_Seated,Individual Task,4,24,1.0,5,5,9,24,False,pegs_summary.csv
+PT11,Pegs_Seated,Individual Task,5,24,1.0,5,5,9,24,False,pegs_summary.csv
+PT12,Pegs_Seated,Individual Task,1,11,0.0,5,5,11,21,False,pegs_summary.csv
+PT12,Pegs_Seated,Individual Task,2,14,0.3,5,5,11,21,False,pegs_summary.csv
+PT12,Pegs_Seated,Individual Task,3,17,0.6,5,5,11,21,False,pegs_summary.csv
+PT12,Pegs_Seated,Individual Task,4,19,0.8,5,5,11,21,False,pegs_summary.csv
+PT12,Pegs_Seated,Individual Task,5,21,1.0,5,5,11,21,False,pegs_summary.csv
+PT13,Pegs_Seated,Individual Task,1,4,0.0,5,5,4,16,False,pegs_summary.csv
+PT13,Pegs_Seated,Individual Task,2,9,0.4166666666666667,5,5,4,16,False,pegs_summary.csv
+PT13,Pegs_Seated,Individual Task,3,10,0.5,5,5,4,16,False,pegs_summary.csv
+PT13,Pegs_Seated,Individual Task,4,13,0.75,5,5,4,16,False,pegs_summary.csv
+PT13,Pegs_Seated,Individual Task,5,16,1.0,5,5,4,16,False,pegs_summary.csv
+PT14,Pegs_Seated,Individual Task,1,1,0.0,5,5,1,21,False,pegs_summary.csv
+PT14,Pegs_Seated,Individual Task,2,5,0.2,5,5,1,21,False,pegs_summary.csv
+PT14,Pegs_Seated,Individual Task,3,8,0.35,5,5,1,21,False,pegs_summary.csv
+PT14,Pegs_Seated,Individual Task,4,7,0.3,5,5,1,21,False,pegs_summary.csv
+PT14,Pegs_Seated,Individual Task,5,21,1.0,5,5,1,21,False,pegs_summary.csv
+PT15,Pegs_Seated,Individual Task,1,12,0.0,5,5,12,23,False,pegs_summary.csv
+PT15,Pegs_Seated,Individual Task,2,19,0.6363636363636364,5,5,12,23,False,pegs_summary.csv
+PT15,Pegs_Seated,Individual Task,3,20,0.7272727272727273,5,5,12,23,False,pegs_summary.csv
+PT15,Pegs_Seated,Individual Task,4,21,0.8181818181818182,5,5,12,23,False,pegs_summary.csv
+PT15,Pegs_Seated,Individual Task,5,23,1.0,5,5,12,23,False,pegs_summary.csv
+PT16,Pegs_Seated,Individual Task,1,16,0.0,5,4,16,27,False,pegs_summary.csv
+PT16,Pegs_Seated,Individual Task,2,22,0.5454545454545454,5,4,16,27,False,pegs_summary.csv
+PT16,Pegs_Seated,Individual Task,3,25,0.8181818181818182,5,4,16,27,False,pegs_summary.csv
+PT16,Pegs_Seated,Individual Task,4,27,1.0,5,4,16,27,False,pegs_summary.csv
+PT17,Pegs_Seated,Individual Task,1,5,0.0,5,5,5,23,False,pegs_summary.csv
+PT17,Pegs_Seated,Individual Task,2,13,0.4444444444444444,5,5,5,23,False,pegs_summary.csv
+PT17,Pegs_Seated,Individual Task,3,16,0.6111111111111112,5,5,5,23,False,pegs_summary.csv
+PT17,Pegs_Seated,Individual Task,4,19,0.7777777777777778,5,5,5,23,False,pegs_summary.csv
+PT17,Pegs_Seated,Individual Task,5,23,1.0,5,5,5,23,False,pegs_summary.csv
+PT20,Pegs_Seated,Individual Task,1,7,0.0,5,5,7,24,False,pegs_summary.csv
+PT20,Pegs_Seated,Individual Task,2,14,0.4117647058823529,5,5,7,24,False,pegs_summary.csv
+PT20,Pegs_Seated,Individual Task,3,20,0.7647058823529411,5,5,7,24,False,pegs_summary.csv
+PT20,Pegs_Seated,Individual Task,4,20,0.7647058823529411,5,5,7,24,False,pegs_summary.csv
+PT20,Pegs_Seated,Individual Task,5,24,1.0,5,5,7,24,False,pegs_summary.csv
+PT21,Pegs_Seated,Individual Task,1,15,0.0,5,5,15,30,False,pegs_summary.csv
+PT21,Pegs_Seated,Individual Task,2,19,0.26666666666666666,5,5,15,30,False,pegs_summary.csv
+PT21,Pegs_Seated,Individual Task,3,26,0.7333333333333333,5,5,15,30,False,pegs_summary.csv
+PT21,Pegs_Seated,Individual Task,4,25,0.6666666666666666,5,5,15,30,False,pegs_summary.csv
+PT21,Pegs_Seated,Individual Task,5,30,1.0,5,5,15,30,False,pegs_summary.csv
+PT22,Pegs_Seated,Individual Task,1,5,0.0,5,4,5,12,False,pegs_summary.csv
+PT22,Pegs_Seated,Individual Task,2,11,0.8571428571428571,5,4,5,12,False,pegs_summary.csv
+PT22,Pegs_Seated,Individual Task,3,11,0.8571428571428571,5,4,5,12,False,pegs_summary.csv
+PT22,Pegs_Seated,Individual Task,4,12,1.0,5,4,5,12,False,pegs_summary.csv
+PT23,Pegs_Seated,Individual Task,1,10,0.0,5,4,10,20,False,pegs_summary.csv
+PT23,Pegs_Seated,Individual Task,2,15,0.5,5,4,10,20,False,pegs_summary.csv
+PT23,Pegs_Seated,Individual Task,3,17,0.7,5,4,10,20,False,pegs_summary.csv
+PT23,Pegs_Seated,Individual Task,4,20,1.0,5,4,10,20,False,pegs_summary.csv
+PT24,Pegs_Seated,Individual Task,1,4,0.0,5,4,4,23,False,pegs_summary.csv
+PT24,Pegs_Seated,Individual Task,2,15,0.5789473684210527,5,4,4,23,False,pegs_summary.csv
+PT24,Pegs_Seated,Individual Task,3,22,0.9473684210526315,5,4,4,23,False,pegs_summary.csv
+PT24,Pegs_Seated,Individual Task,4,23,1.0,5,4,4,23,False,pegs_summary.csv
+PT25,Pegs_Seated,Individual Task,1,7,0.0,5,4,7,17,False,pegs_summary.csv
+PT25,Pegs_Seated,Individual Task,2,12,0.5,5,4,7,17,False,pegs_summary.csv
+PT25,Pegs_Seated,Individual Task,3,17,1.0,5,4,7,17,False,pegs_summary.csv
+PT25,Pegs_Seated,Individual Task,4,13,0.6,5,4,7,17,False,pegs_summary.csv
+PT26,Pegs_Seated,Individual Task,1,8,0.0,5,4,8,19,False,pegs_summary.csv
+PT26,Pegs_Seated,Individual Task,2,19,1.0,5,4,8,19,False,pegs_summary.csv
+PT26,Pegs_Seated,Individual Task,3,18,0.9090909090909091,5,4,8,19,False,pegs_summary.csv
+PT26,Pegs_Seated,Individual Task,4,19,1.0,5,4,8,19,False,pegs_summary.csv
+PT03,Tapes_Seated,Collaborative Task,1,2,0.0,5,4,2,14,False,tapes_summary.csv
+PT03,Tapes_Seated,Collaborative Task,2,6,0.3333333333333333,5,4,2,14,False,tapes_summary.csv
+PT03,Tapes_Seated,Collaborative Task,4,7,0.4166666666666667,5,4,2,14,False,tapes_summary.csv
+PT03,Tapes_Seated,Collaborative Task,5,14,1.0,5,4,2,14,False,tapes_summary.csv
+PT04,Tapes_Seated,Collaborative Task,1,15,0.17647058823529413,5,5,12,29,False,tapes_summary.csv
+PT04,Tapes_Seated,Collaborative Task,2,12,0.0,5,5,12,29,False,tapes_summary.csv
+PT04,Tapes_Seated,Collaborative Task,3,14,0.11764705882352941,5,5,12,29,False,tapes_summary.csv
+PT04,Tapes_Seated,Collaborative Task,4,24,0.7058823529411765,5,5,12,29,False,tapes_summary.csv
+PT04,Tapes_Seated,Collaborative Task,5,29,1.0,5,5,12,29,False,tapes_summary.csv
+PT05,Tapes_Seated,Collaborative Task,1,10,0.0,5,5,10,16,False,tapes_summary.csv
+PT05,Tapes_Seated,Collaborative Task,2,14,0.6666666666666666,5,5,10,16,False,tapes_summary.csv
+PT05,Tapes_Seated,Collaborative Task,3,10,0.0,5,5,10,16,False,tapes_summary.csv
+PT05,Tapes_Seated,Collaborative Task,4,16,1.0,5,5,10,16,False,tapes_summary.csv
+PT05,Tapes_Seated,Collaborative Task,5,12,0.3333333333333333,5,5,10,16,False,tapes_summary.csv
+PT06,Tapes_Seated,Collaborative Task,1,2,0.0,5,5,2,11,False,tapes_summary.csv
+PT06,Tapes_Seated,Collaborative Task,2,3,0.1111111111111111,5,5,2,11,False,tapes_summary.csv
+PT06,Tapes_Seated,Collaborative Task,3,9,0.7777777777777778,5,5,2,11,False,tapes_summary.csv
+PT06,Tapes_Seated,Collaborative Task,4,8,0.6666666666666666,5,5,2,11,False,tapes_summary.csv
+PT06,Tapes_Seated,Collaborative Task,5,11,1.0,5,5,2,11,False,tapes_summary.csv
+PT07,Tapes_Seated,Collaborative Task,1,14,0.0,5,5,14,31,False,tapes_summary.csv
+PT07,Tapes_Seated,Collaborative Task,2,16,0.11764705882352941,5,5,14,31,False,tapes_summary.csv
+PT07,Tapes_Seated,Collaborative Task,3,22,0.47058823529411764,5,5,14,31,False,tapes_summary.csv
+PT07,Tapes_Seated,Collaborative Task,4,25,0.6470588235294118,5,5,14,31,False,tapes_summary.csv
+PT07,Tapes_Seated,Collaborative Task,5,31,1.0,5,5,14,31,False,tapes_summary.csv
+PT08,Tapes_Seated,Collaborative Task,1,20,0.7333333333333333,5,5,9,24,False,tapes_summary.csv
+PT08,Tapes_Seated,Collaborative Task,2,9,0.0,5,5,9,24,False,tapes_summary.csv
+PT08,Tapes_Seated,Collaborative Task,3,9,0.0,5,5,9,24,False,tapes_summary.csv
+PT08,Tapes_Seated,Collaborative Task,4,13,0.26666666666666666,5,5,9,24,False,tapes_summary.csv
+PT08,Tapes_Seated,Collaborative Task,5,24,1.0,5,5,9,24,False,tapes_summary.csv
+PT09,Tapes_Seated,Collaborative Task,1,22,0.0,5,5,22,37,False,tapes_summary.csv
+PT09,Tapes_Seated,Collaborative Task,2,29,0.4666666666666667,5,5,22,37,False,tapes_summary.csv
+PT09,Tapes_Seated,Collaborative Task,3,34,0.8,5,5,22,37,False,tapes_summary.csv
+PT09,Tapes_Seated,Collaborative Task,4,34,0.8,5,5,22,37,False,tapes_summary.csv
+PT09,Tapes_Seated,Collaborative Task,5,37,1.0,5,5,22,37,False,tapes_summary.csv
+PT10,Tapes_Seated,Collaborative Task,1,23,0.0,5,5,23,39,False,tapes_summary.csv
+PT10,Tapes_Seated,Collaborative Task,2,34,0.6875,5,5,23,39,False,tapes_summary.csv
+PT10,Tapes_Seated,Collaborative Task,3,37,0.875,5,5,23,39,False,tapes_summary.csv
+PT10,Tapes_Seated,Collaborative Task,4,39,1.0,5,5,23,39,False,tapes_summary.csv
+PT10,Tapes_Seated,Collaborative Task,5,36,0.8125,5,5,23,39,False,tapes_summary.csv
+PT11,Tapes_Seated,Collaborative Task,1,14,0.0,5,5,14,29,False,tapes_summary.csv
+PT11,Tapes_Seated,Collaborative Task,2,18,0.26666666666666666,5,5,14,29,False,tapes_summary.csv
+PT11,Tapes_Seated,Collaborative Task,3,23,0.6,5,5,14,29,False,tapes_summary.csv
+PT11,Tapes_Seated,Collaborative Task,4,24,0.6666666666666666,5,5,14,29,False,tapes_summary.csv
+PT11,Tapes_Seated,Collaborative Task,5,29,1.0,5,5,14,29,False,tapes_summary.csv
+PT12,Tapes_Seated,Collaborative Task,1,1,0.0,5,5,1,25,False,tapes_summary.csv
+PT12,Tapes_Seated,Collaborative Task,2,8,0.2916666666666667,5,5,1,25,False,tapes_summary.csv
+PT12,Tapes_Seated,Collaborative Task,3,5,0.16666666666666666,5,5,1,25,False,tapes_summary.csv
+PT12,Tapes_Seated,Collaborative Task,4,23,0.9166666666666666,5,5,1,25,False,tapes_summary.csv
+PT12,Tapes_Seated,Collaborative Task,5,25,1.0,5,5,1,25,False,tapes_summary.csv
+PT13,Tapes_Seated,Collaborative Task,1,5,0.0,5,5,5,16,False,tapes_summary.csv
+PT13,Tapes_Seated,Collaborative Task,2,5,0.0,5,5,5,16,False,tapes_summary.csv
+PT13,Tapes_Seated,Collaborative Task,3,9,0.36363636363636365,5,5,5,16,False,tapes_summary.csv
+PT13,Tapes_Seated,Collaborative Task,4,16,1.0,5,5,5,16,False,tapes_summary.csv
+PT13,Tapes_Seated,Collaborative Task,5,14,0.8181818181818182,5,5,5,16,False,tapes_summary.csv
+PT14,Tapes_Seated,Collaborative Task,1,3,0.0,5,5,3,35,False,tapes_summary.csv
+PT14,Tapes_Seated,Collaborative Task,2,23,0.625,5,5,3,35,False,tapes_summary.csv
+PT14,Tapes_Seated,Collaborative Task,3,27,0.75,5,5,3,35,False,tapes_summary.csv
+PT14,Tapes_Seated,Collaborative Task,4,35,1.0,5,5,3,35,False,tapes_summary.csv
+PT14,Tapes_Seated,Collaborative Task,5,31,0.875,5,5,3,35,False,tapes_summary.csv
+PT15,Tapes_Seated,Collaborative Task,1,13,0.0,5,5,13,28,False,tapes_summary.csv
+PT15,Tapes_Seated,Collaborative Task,2,22,0.6,5,5,13,28,False,tapes_summary.csv
+PT15,Tapes_Seated,Collaborative Task,3,23,0.6666666666666666,5,5,13,28,False,tapes_summary.csv
+PT15,Tapes_Seated,Collaborative Task,4,28,1.0,5,5,13,28,False,tapes_summary.csv
+PT15,Tapes_Seated,Collaborative Task,5,21,0.5333333333333333,5,5,13,28,False,tapes_summary.csv
+PT16,Tapes_Seated,Collaborative Task,1,31,0.0,5,4,31,43,False,tapes_summary.csv
+PT16,Tapes_Seated,Collaborative Task,2,36,0.4166666666666667,5,4,31,43,False,tapes_summary.csv
+PT16,Tapes_Seated,Collaborative Task,3,39,0.6666666666666666,5,4,31,43,False,tapes_summary.csv
+PT16,Tapes_Seated,Collaborative Task,4,43,1.0,5,4,31,43,False,tapes_summary.csv
+PT17,Tapes_Seated,Collaborative Task,1,7,0.0,5,5,7,23,False,tapes_summary.csv
+PT17,Tapes_Seated,Collaborative Task,2,16,0.5625,5,5,7,23,False,tapes_summary.csv
+PT17,Tapes_Seated,Collaborative Task,3,17,0.625,5,5,7,23,False,tapes_summary.csv
+PT17,Tapes_Seated,Collaborative Task,4,23,1.0,5,5,7,23,False,tapes_summary.csv
+PT17,Tapes_Seated,Collaborative Task,5,21,0.875,5,5,7,23,False,tapes_summary.csv
+PT20,Tapes_Seated,Collaborative Task,1,22,0.0,5,5,22,37,False,tapes_summary.csv
+PT20,Tapes_Seated,Collaborative Task,2,25,0.2,5,5,22,37,False,tapes_summary.csv
+PT20,Tapes_Seated,Collaborative Task,3,30,0.5333333333333333,5,5,22,37,False,tapes_summary.csv
+PT20,Tapes_Seated,Collaborative Task,4,34,0.8,5,5,22,37,False,tapes_summary.csv
+PT20,Tapes_Seated,Collaborative Task,5,37,1.0,5,5,22,37,False,tapes_summary.csv
+PT21,Tapes_Seated,Collaborative Task,1,17,0.0,5,5,17,32,False,tapes_summary.csv
+PT21,Tapes_Seated,Collaborative Task,2,30,0.8666666666666667,5,5,17,32,False,tapes_summary.csv
+PT21,Tapes_Seated,Collaborative Task,3,26,0.6,5,5,17,32,False,tapes_summary.csv
+PT21,Tapes_Seated,Collaborative Task,4,32,1.0,5,5,17,32,False,tapes_summary.csv
+PT21,Tapes_Seated,Collaborative Task,5,32,1.0,5,5,17,32,False,tapes_summary.csv
+PT22,Tapes_Seated,Collaborative Task,1,10,0.0,5,4,10,18,False,tapes_summary.csv
+PT22,Tapes_Seated,Collaborative Task,2,11,0.125,5,4,10,18,False,tapes_summary.csv
+PT22,Tapes_Seated,Collaborative Task,3,18,1.0,5,4,10,18,False,tapes_summary.csv
+PT22,Tapes_Seated,Collaborative Task,4,16,0.75,5,4,10,18,False,tapes_summary.csv
+PT23,Tapes_Seated,Collaborative Task,1,25,0.0,5,5,25,39,False,tapes_summary.csv
+PT23,Tapes_Seated,Collaborative Task,2,33,0.5714285714285714,5,5,25,39,False,tapes_summary.csv
+PT23,Tapes_Seated,Collaborative Task,3,36,0.7857142857142857,5,5,25,39,False,tapes_summary.csv
+PT23,Tapes_Seated,Collaborative Task,4,36,0.7857142857142857,5,5,25,39,False,tapes_summary.csv
+PT23,Tapes_Seated,Collaborative Task,5,39,1.0,5,5,25,39,False,tapes_summary.csv
+PT24,Tapes_Seated,Collaborative Task,1,12,0.0,5,5,12,30,False,tapes_summary.csv
+PT24,Tapes_Seated,Collaborative Task,2,24,0.6666666666666666,5,5,12,30,False,tapes_summary.csv
+PT24,Tapes_Seated,Collaborative Task,3,30,1.0,5,5,12,30,False,tapes_summary.csv
+PT24,Tapes_Seated,Collaborative Task,4,29,0.9444444444444444,5,5,12,30,False,tapes_summary.csv
+PT24,Tapes_Seated,Collaborative Task,5,29,0.9444444444444444,5,5,12,30,False,tapes_summary.csv
+PT25,Tapes_Seated,Collaborative Task,1,5,0.0,5,5,5,17,False,tapes_summary.csv
+PT25,Tapes_Seated,Collaborative Task,2,11,0.5,5,5,5,17,False,tapes_summary.csv
+PT25,Tapes_Seated,Collaborative Task,3,11,0.5,5,5,5,17,False,tapes_summary.csv
+PT25,Tapes_Seated,Collaborative Task,4,17,1.0,5,5,5,17,False,tapes_summary.csv
+PT25,Tapes_Seated,Collaborative Task,5,10,0.4166666666666667,5,5,5,17,False,tapes_summary.csv
+PT26,Tapes_Seated,Collaborative Task,1,11,0.0,5,4,11,25,False,tapes_summary.csv
+PT26,Tapes_Seated,Collaborative Task,2,25,1.0,5,4,11,25,False,tapes_summary.csv
+PT26,Tapes_Seated,Collaborative Task,3,16,0.35714285714285715,5,4,11,25,False,tapes_summary.csv
+PT26,Tapes_Seated,Collaborative Task,4,20,0.6428571428571429,5,4,11,25,False,tapes_summary.csv
+PT03,Tapes_Standing,Standing Collaborative Task,1,4,0.2,5,4,2,12,False,tapes_standing_summary.csv
+PT03,Tapes_Standing,Standing Collaborative Task,2,6,0.4,5,4,2,12,False,tapes_standing_summary.csv
+PT03,Tapes_Standing,Standing Collaborative Task,4,2,0.0,5,4,2,12,False,tapes_standing_summary.csv
+PT03,Tapes_Standing,Standing Collaborative Task,5,12,1.0,5,4,2,12,False,tapes_standing_summary.csv
+PT04,Tapes_Standing,Standing Collaborative Task,1,10,0.0,5,5,10,26,False,tapes_standing_summary.csv
+PT04,Tapes_Standing,Standing Collaborative Task,2,11,0.0625,5,5,10,26,False,tapes_standing_summary.csv
+PT04,Tapes_Standing,Standing Collaborative Task,3,17,0.4375,5,5,10,26,False,tapes_standing_summary.csv
+PT04,Tapes_Standing,Standing Collaborative Task,4,23,0.8125,5,5,10,26,False,tapes_standing_summary.csv
+PT04,Tapes_Standing,Standing Collaborative Task,5,26,1.0,5,5,10,26,False,tapes_standing_summary.csv
+PT05,Tapes_Standing,Standing Collaborative Task,1,9,0.14285714285714285,5,5,8,15,False,tapes_standing_summary.csv
+PT05,Tapes_Standing,Standing Collaborative Task,2,8,0.0,5,5,8,15,False,tapes_standing_summary.csv
+PT05,Tapes_Standing,Standing Collaborative Task,3,9,0.14285714285714285,5,5,8,15,False,tapes_standing_summary.csv
+PT05,Tapes_Standing,Standing Collaborative Task,4,14,0.8571428571428571,5,5,8,15,False,tapes_standing_summary.csv
+PT05,Tapes_Standing,Standing Collaborative Task,5,15,1.0,5,5,8,15,False,tapes_standing_summary.csv
+PT06,Tapes_Standing,Standing Collaborative Task,1,6,0.0,5,5,6,19,False,tapes_standing_summary.csv
+PT06,Tapes_Standing,Standing Collaborative Task,2,6,0.0,5,5,6,19,False,tapes_standing_summary.csv
+PT06,Tapes_Standing,Standing Collaborative Task,3,18,0.9230769230769231,5,5,6,19,False,tapes_standing_summary.csv
+PT06,Tapes_Standing,Standing Collaborative Task,4,19,1.0,5,5,6,19,False,tapes_standing_summary.csv
+PT06,Tapes_Standing,Standing Collaborative Task,5,13,0.5384615384615384,5,5,6,19,False,tapes_standing_summary.csv
+PT07,Tapes_Standing,Standing Collaborative Task,1,18,0.0,5,5,18,33,False,tapes_standing_summary.csv
+PT07,Tapes_Standing,Standing Collaborative Task,2,20,0.13333333333333333,5,5,18,33,False,tapes_standing_summary.csv
+PT07,Tapes_Standing,Standing Collaborative Task,3,27,0.6,5,5,18,33,False,tapes_standing_summary.csv
+PT07,Tapes_Standing,Standing Collaborative Task,4,33,1.0,5,5,18,33,False,tapes_standing_summary.csv
+PT07,Tapes_Standing,Standing Collaborative Task,5,33,1.0,5,5,18,33,False,tapes_standing_summary.csv
+PT08,Tapes_Standing,Standing Collaborative Task,1,10,0.2,5,5,8,18,False,tapes_standing_summary.csv
+PT08,Tapes_Standing,Standing Collaborative Task,2,8,0.0,5,5,8,18,False,tapes_standing_summary.csv
+PT08,Tapes_Standing,Standing Collaborative Task,3,17,0.9,5,5,8,18,False,tapes_standing_summary.csv
+PT08,Tapes_Standing,Standing Collaborative Task,4,18,1.0,5,5,8,18,False,tapes_standing_summary.csv
+PT08,Tapes_Standing,Standing Collaborative Task,5,13,0.5,5,5,8,18,False,tapes_standing_summary.csv
+PT09,Tapes_Standing,Standing Collaborative Task,1,35,0.2,5,5,34,39,False,tapes_standing_summary.csv
+PT09,Tapes_Standing,Standing Collaborative Task,2,34,0.0,5,5,34,39,False,tapes_standing_summary.csv
+PT09,Tapes_Standing,Standing Collaborative Task,3,38,0.8,5,5,34,39,False,tapes_standing_summary.csv
+PT09,Tapes_Standing,Standing Collaborative Task,4,39,1.0,5,5,34,39,False,tapes_standing_summary.csv
+PT09,Tapes_Standing,Standing Collaborative Task,5,38,0.8,5,5,34,39,False,tapes_standing_summary.csv
+PT10,Tapes_Standing,Standing Collaborative Task,1,25,0.0,5,5,25,40,False,tapes_standing_summary.csv
+PT10,Tapes_Standing,Standing Collaborative Task,2,37,0.8,5,5,25,40,False,tapes_standing_summary.csv
+PT10,Tapes_Standing,Standing Collaborative Task,3,36,0.7333333333333333,5,5,25,40,False,tapes_standing_summary.csv
+PT10,Tapes_Standing,Standing Collaborative Task,4,40,1.0,5,5,25,40,False,tapes_standing_summary.csv
+PT10,Tapes_Standing,Standing Collaborative Task,5,36,0.7333333333333333,5,5,25,40,False,tapes_standing_summary.csv
+PT11,Tapes_Standing,Standing Collaborative Task,1,11,0.0,5,5,11,22,False,tapes_standing_summary.csv
+PT11,Tapes_Standing,Standing Collaborative Task,2,16,0.45454545454545453,5,5,11,22,False,tapes_standing_summary.csv
+PT11,Tapes_Standing,Standing Collaborative Task,3,13,0.18181818181818182,5,5,11,22,False,tapes_standing_summary.csv
+PT11,Tapes_Standing,Standing Collaborative Task,4,20,0.8181818181818182,5,5,11,22,False,tapes_standing_summary.csv
+PT11,Tapes_Standing,Standing Collaborative Task,5,22,1.0,5,5,11,22,False,tapes_standing_summary.csv
+PT12,Tapes_Standing,Standing Collaborative Task,1,9,0.05555555555555555,5,5,8,26,False,tapes_standing_summary.csv
+PT12,Tapes_Standing,Standing Collaborative Task,2,8,0.0,5,5,8,26,False,tapes_standing_summary.csv
+PT12,Tapes_Standing,Standing Collaborative Task,3,14,0.3333333333333333,5,5,8,26,False,tapes_standing_summary.csv
+PT12,Tapes_Standing,Standing Collaborative Task,4,18,0.5555555555555556,5,5,8,26,False,tapes_standing_summary.csv
+PT12,Tapes_Standing,Standing Collaborative Task,5,26,1.0,5,5,8,26,False,tapes_standing_summary.csv
+PT13,Tapes_Standing,Standing Collaborative Task,1,5,0.0,5,4,5,20,False,tapes_standing_summary.csv
+PT13,Tapes_Standing,Standing Collaborative Task,2,5,0.0,5,4,5,20,False,tapes_standing_summary.csv
+PT13,Tapes_Standing,Standing Collaborative Task,3,11,0.4,5,4,5,20,False,tapes_standing_summary.csv
+PT13,Tapes_Standing,Standing Collaborative Task,5,20,1.0,5,4,5,20,False,tapes_standing_summary.csv
+PT14,Tapes_Standing,Standing Collaborative Task,1,26,0.0,5,5,26,36,False,tapes_standing_summary.csv
+PT14,Tapes_Standing,Standing Collaborative Task,2,31,0.5,5,5,26,36,False,tapes_standing_summary.csv
+PT14,Tapes_Standing,Standing Collaborative Task,3,33,0.7,5,5,26,36,False,tapes_standing_summary.csv
+PT14,Tapes_Standing,Standing Collaborative Task,4,36,1.0,5,5,26,36,False,tapes_standing_summary.csv
+PT14,Tapes_Standing,Standing Collaborative Task,5,36,1.0,5,5,26,36,False,tapes_standing_summary.csv
+PT15,Tapes_Standing,Standing Collaborative Task,2,18,0.0,5,4,18,26,False,tapes_standing_summary.csv
+PT15,Tapes_Standing,Standing Collaborative Task,3,26,1.0,5,4,18,26,False,tapes_standing_summary.csv
+PT15,Tapes_Standing,Standing Collaborative Task,4,24,0.75,5,4,18,26,False,tapes_standing_summary.csv
+PT15,Tapes_Standing,Standing Collaborative Task,5,22,0.5,5,4,18,26,False,tapes_standing_summary.csv
+PT16,Tapes_Standing,Standing Collaborative Task,2,41,0.0,5,3,41,43,False,tapes_standing_summary.csv
+PT16,Tapes_Standing,Standing Collaborative Task,3,42,0.5,5,3,41,43,False,tapes_standing_summary.csv
+PT16,Tapes_Standing,Standing Collaborative Task,4,43,1.0,5,3,41,43,False,tapes_standing_summary.csv
+PT17,Tapes_Standing,Standing Collaborative Task,1,11,0.0,5,5,11,26,False,tapes_standing_summary.csv
+PT17,Tapes_Standing,Standing Collaborative Task,2,19,0.5333333333333333,5,5,11,26,False,tapes_standing_summary.csv
+PT17,Tapes_Standing,Standing Collaborative Task,3,25,0.9333333333333333,5,5,11,26,False,tapes_standing_summary.csv
+PT17,Tapes_Standing,Standing Collaborative Task,4,23,0.8,5,5,11,26,False,tapes_standing_summary.csv
+PT17,Tapes_Standing,Standing Collaborative Task,5,26,1.0,5,5,11,26,False,tapes_standing_summary.csv
+PT20,Tapes_Standing,Standing Collaborative Task,1,23,0.0,5,5,23,37,False,tapes_standing_summary.csv
+PT20,Tapes_Standing,Standing Collaborative Task,2,26,0.21428571428571427,5,5,23,37,False,tapes_standing_summary.csv
+PT20,Tapes_Standing,Standing Collaborative Task,3,31,0.5714285714285714,5,5,23,37,False,tapes_standing_summary.csv
+PT20,Tapes_Standing,Standing Collaborative Task,4,33,0.7142857142857143,5,5,23,37,False,tapes_standing_summary.csv
+PT20,Tapes_Standing,Standing Collaborative Task,5,37,1.0,5,5,23,37,False,tapes_standing_summary.csv
+PT21,Tapes_Standing,Standing Collaborative Task,1,18,0.0,5,5,18,33,False,tapes_standing_summary.csv
+PT21,Tapes_Standing,Standing Collaborative Task,2,29,0.7333333333333333,5,5,18,33,False,tapes_standing_summary.csv
+PT21,Tapes_Standing,Standing Collaborative Task,3,27,0.6,5,5,18,33,False,tapes_standing_summary.csv
+PT21,Tapes_Standing,Standing Collaborative Task,4,30,0.8,5,5,18,33,False,tapes_standing_summary.csv
+PT21,Tapes_Standing,Standing Collaborative Task,5,33,1.0,5,5,18,33,False,tapes_standing_summary.csv

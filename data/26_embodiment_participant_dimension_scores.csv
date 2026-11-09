@@ -1,0 +1,161 @@
+Participant,Dimension,Day,Embodiment_score
+PT_01,Agency,1,0
+PT_01,Agency,5,2.25
+PT_02,Agency,1,2
+PT_02,Agency,5,1.25
+PT_03,Agency,1,0.5
+PT_03,Agency,5,1
+PT_04,Agency,1,0.5
+PT_04,Agency,5,1.25
+PT_05,Agency,1,1.5
+PT_05,Agency,5,2.75
+PT_07,Agency,1,0.25
+PT_07,Agency,5,1.75
+PT_08,Agency,1,1.5
+PT_08,Agency,5,1.75
+PT_09,Agency,1,0.25
+PT_09,Agency,5,1.25
+PT_10,Agency,1,1.75
+PT_10,Agency,5,1.5
+PT_11,Agency,1,0.25
+PT_11,Agency,5,2
+PT_12,Agency,1,0.75
+PT_12,Agency,5,2
+PT_13,Agency,1,1.5
+PT_13,Agency,5,2.5
+PT_15,Agency,1,0.75
+PT_15,Agency,5,1.75
+PT_18,Agency,1,1.5
+PT_18,Agency,5,2.5
+PT_20,Agency,1,0
+PT_20,Agency,5,2.25
+PT_21,Agency,1,1.5
+PT_21,Agency,5,1.75
+PT_22,Agency,1,2
+PT_22,Agency,5,2.25
+PT_23,Agency,1,0.5
+PT_23,Agency,5,2.25
+PT_25,Agency,1,1.25
+PT_25,Agency,5,2.75
+PT_26,Agency,1,0.75
+PT_26,Agency,5,1.5
+PT_01,Body Image,1,-2.6
+PT_01,Body Image,5,-2
+PT_02,Body Image,1,1
+PT_02,Body Image,5,0.6
+PT_03,Body Image,1,0.4
+PT_03,Body Image,5,0.8
+PT_04,Body Image,1,-1.6
+PT_04,Body Image,5,0
+PT_05,Body Image,1,-0.4
+PT_05,Body Image,5,1.6
+PT_07,Body Image,1,-1.4
+PT_07,Body Image,5,-1.6
+PT_08,Body Image,1,-0.6
+PT_08,Body Image,5,0.2
+PT_09,Body Image,1,-0.8
+PT_09,Body Image,5,0.2
+PT_10,Body Image,1,0.4
+PT_10,Body Image,5,0.4
+PT_11,Body Image,1,-1.6
+PT_11,Body Image,5,1
+PT_12,Body Image,1,-0.6
+PT_12,Body Image,5,0.6
+PT_13,Body Image,1,1
+PT_13,Body Image,5,1.6
+PT_15,Body Image,1,0
+PT_15,Body Image,5,1
+PT_18,Body Image,1,0.2
+PT_18,Body Image,5,1
+PT_20,Body Image,1,-1.2
+PT_20,Body Image,5,-0.6
+PT_21,Body Image,1,-1
+PT_21,Body Image,5,-0.8
+PT_22,Body Image,1,0.6
+PT_22,Body Image,5,2
+PT_23,Body Image,1,-0.4
+PT_23,Body Image,5,1.8
+PT_25,Body Image,1,0.8
+PT_25,Body Image,5,0.6
+PT_26,Body Image,1,-0.6
+PT_26,Body Image,5,0.2
+PT_01,Body Ownership,1,-2.2
+PT_01,Body Ownership,5,-1
+PT_02,Body Ownership,1,1.8
+PT_02,Body Ownership,5,1.8
+PT_03,Body Ownership,1,0.8
+PT_03,Body Ownership,5,1
+PT_04,Body Ownership,1,-1.4
+PT_04,Body Ownership,5,0.6
+PT_05,Body Ownership,1,0.6
+PT_05,Body Ownership,5,2.4
+PT_07,Body Ownership,1,-2.4
+PT_07,Body Ownership,5,-1.4
+PT_08,Body Ownership,1,1
+PT_08,Body Ownership,5,1.4
+PT_09,Body Ownership,1,-0.4
+PT_09,Body Ownership,5,0.4
+PT_10,Body Ownership,1,1.4
+PT_10,Body Ownership,5,2
+PT_11,Body Ownership,1,-1
+PT_11,Body Ownership,5,0.4
+PT_12,Body Ownership,1,-1.6
+PT_12,Body Ownership,5,-0.6
+PT_13,Body Ownership,1,1.2
+PT_13,Body Ownership,5,2.2
+PT_15,Body Ownership,1,0.4
+PT_15,Body Ownership,5,2
+PT_18,Body Ownership,1,1.2
+PT_18,Body Ownership,5,1.2
+PT_20,Body Ownership,1,-1.4
+PT_20,Body Ownership,5,0.8
+PT_21,Body Ownership,1,-0.4
+PT_21,Body Ownership,5,-0.6
+PT_22,Body Ownership,1,1.2
+PT_22,Body Ownership,5,2
+PT_23,Body Ownership,1,0
+PT_23,Body Ownership,5,0.8
+PT_25,Body Ownership,1,0.2
+PT_25,Body Ownership,5,1
+PT_26,Body Ownership,1,0.8
+PT_26,Body Ownership,5,1.4
+PT_01,Somatosensation,1,-1.5
+PT_01,Somatosensation,5,-0.25
+PT_02,Somatosensation,1,0
+PT_02,Somatosensation,5,0.75
+PT_03,Somatosensation,1,-0.5
+PT_03,Somatosensation,5,-0.75
+PT_04,Somatosensation,1,-2.25
+PT_04,Somatosensation,5,-0.75
+PT_05,Somatosensation,1,-1.5
+PT_05,Somatosensation,5,-0.25
+PT_07,Somatosensation,1,-1.5
+PT_07,Somatosensation,5,-1.25
+PT_08,Somatosensation,1,-0.75
+PT_08,Somatosensation,5,0.25
+PT_09,Somatosensation,1,-0.75
+PT_09,Somatosensation,5,0
+PT_10,Somatosensation,1,-0.25
+PT_10,Somatosensation,5,1.75
+PT_11,Somatosensation,1,-2
+PT_11,Somatosensation,5,-0.25
+PT_12,Somatosensation,1,0
+PT_12,Somatosensation,5,0.5
+PT_13,Somatosensation,1,-1
+PT_13,Somatosensation,5,1.25
+PT_15,Somatosensation,1,0
+PT_15,Somatosensation,5,1.25
+PT_18,Somatosensation,1,0
+PT_18,Somatosensation,5,-0.25
+PT_20,Somatosensation,1,-1.75
+PT_20,Somatosensation,5,-1
+PT_21,Somatosensation,1,-1.5
+PT_21,Somatosensation,5,0
+PT_22,Somatosensation,1,-0.5
+PT_22,Somatosensation,5,1
+PT_23,Somatosensation,1,-1.5
+PT_23,Somatosensation,5,-0.75
+PT_25,Somatosensation,1,-1.75
+PT_25,Somatosensation,5,-1
+PT_26,Somatosensation,1,0
+PT_26,Somatosensation,5,1.5
